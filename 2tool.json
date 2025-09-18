@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "maxduration": 600,
   "backlistIP": ["1.1.1.1", "8.8.8.8"]
 }
